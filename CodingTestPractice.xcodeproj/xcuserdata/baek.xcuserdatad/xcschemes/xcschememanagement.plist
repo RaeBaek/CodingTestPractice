@@ -7,42 +7,42 @@
 		<key>CodingTestPractice.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>17</integer>
+			<integer>5</integer>
 		</dict>
 		<key>각도기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>19</integer>
 		</dict>
 		<key>나머지구하기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>14</integer>
+			<integer>26</integer>
 		</dict>
 		<key>나이 출력.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>24</integer>
+			<integer>27</integer>
 		</dict>
 		<key>두 수의 곱.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>28</integer>
+			<integer>8</integer>
 		</dict>
 		<key>두 수의 나눗셈.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>21</integer>
+			<integer>1</integer>
 		</dict>
 		<key>두 수의 차.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>22</integer>
+			<integer>4</integer>
 		</dict>
 		<key>두 수의 합.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>10</integer>
 		</dict>
 		<key>두수의 곱.xcscheme_^#shared#^_</key>
 		<dict>
@@ -52,37 +52,37 @@
 		<key>머쓱이보다 키 큰 사람.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>26</integer>
+			<integer>0</integer>
 		</dict>
 		<key>모음 제거.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>15</integer>
+			<integer>12</integer>
 		</dict>
 		<key>몫 구하기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>18</integer>
+			<integer>16</integer>
 		</dict>
 		<key>문자 반복 출력하기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>12</integer>
+			<integer>7</integer>
 		</dict>
 		<key>문자열 뒤집기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>15</integer>
 		</dict>
 		<key>배열 두배 만들기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>27</integer>
+			<integer>14</integer>
 		</dict>
 		<key>배열 뒤집기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>20</integer>
+			<integer>23</integer>
 		</dict>
 		<key>배열 원소의 길이.xcscheme_^#shared#^_</key>
 		<dict>
@@ -92,67 +92,72 @@
 		<key>배열 자르기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>18</integer>
 		</dict>
 		<key>배열의 유사도.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>24</integer>
 		</dict>
 		<key>배열의 평균값.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>2</integer>
+		</dict>
+		<key>삼각형의 완성조건 (1).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
 		</dict>
 		<key>숫자 비교하기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>22</integer>
 		</dict>
 		<key>양꼬치.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>28</integer>
 		</dict>
 		<key>점의 위치 구하기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>3</integer>
 		</dict>
 		<key>짝수 홀수 개수.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>13</integer>
 		</dict>
 		<key>짝수의 합.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>19</integer>
+			<integer>25</integer>
 		</dict>
 		<key>최댓값 만들기 (1).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>16</integer>
+			<integer>29</integer>
 		</dict>
 		<key>특정 문자 제거하기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>20</integer>
 		</dict>
 		<key>편지.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>11</integer>
 		</dict>
 		<key>피자 나눠 먹기 (1).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>23</integer>
+			<integer>9</integer>
 		</dict>
 		<key>피자 나눠 먹기 (3).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>25</integer>
+			<integer>21</integer>
 		</dict>
 	</dict>
 </dict>
